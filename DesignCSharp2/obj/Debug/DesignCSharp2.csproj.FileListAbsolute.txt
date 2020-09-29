@@ -1,0 +1,10 @@
+C:\Users\rspco\Desktop\CENTRAL\TESTES\DesignCSharp\DesignCSharp2\bin\Debug\DesignCSharp2.exe.config
+C:\Users\rspco\Desktop\CENTRAL\TESTES\DesignCSharp\DesignCSharp2\bin\Debug\DesignCSharp2.exe
+C:\Users\rspco\Desktop\CENTRAL\TESTES\DesignCSharp\DesignCSharp2\bin\Debug\DesignCSharp2.pdb
+C:\Users\rspco\Desktop\CENTRAL\TESTES\DesignCSharp\DesignCSharp2\obj\Debug\DesignCSharp2.csprojAssemblyReference.cache
+C:\Users\rspco\Desktop\CENTRAL\TESTES\DesignCSharp\DesignCSharp2\obj\Debug\DesignCSharp2.Properties.Resources.resources
+C:\Users\rspco\Desktop\CENTRAL\TESTES\DesignCSharp\DesignCSharp2\obj\Debug\DesignCSharp2.csproj.GenerateResource.cache
+C:\Users\rspco\Desktop\CENTRAL\TESTES\DesignCSharp\DesignCSharp2\obj\Debug\DesignCSharp2.csproj.CoreCompileInputs.cache
+C:\Users\rspco\Desktop\CENTRAL\TESTES\DesignCSharp\DesignCSharp2\obj\Debug\DesignCSharp2.exe
+C:\Users\rspco\Desktop\CENTRAL\TESTES\DesignCSharp\DesignCSharp2\obj\Debug\DesignCSharp2.pdb
+C:\Users\rspco\Desktop\CENTRAL\TESTES\DesignCSharp\DesignCSharp2\obj\Debug\DesignCSharp2.Form1.resources
