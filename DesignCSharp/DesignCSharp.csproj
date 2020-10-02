@@ -54,9 +54,6 @@
   <ItemGroup>
     <Compile Include="Constants\FrameConstants.cs" />
     <Compile Include="Design\DesignDesign1Dashboard.cs" />
-    <Compile Include="Design\PanelCircle.cs">
-      <SubType>UserControl</SubType>
-    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="View\Design1.cs">
@@ -124,6 +121,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="ResourcesDesign1\downloads.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ResourcesDesign1\chart-diagram.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
